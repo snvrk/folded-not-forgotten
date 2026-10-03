@@ -16,7 +16,7 @@ The paper tests a four-part thesis, the **Fold Hypothesis**:
 | Claim | Status |
 |---|---|
 | A seed fixes everything | Open. Holds under Everett, Bohmian or superdeterministic quantum mechanics; fails under the standard reading. |
-| Knowing the seed predicts everything | False from inside the universe, because of chaos, limited capacity and self-reference. Each extra digit of the seed buys only about 2.4 more steps of forecast in the toy model. |
+| Knowing the seed predicts everything | **True in principle; out of reach in practice.** Given the exact seed and the exact laws, the future is a computation, like a backtest run forward. Chaos punishes any rounding (each extra digit buys about 2.4 steps in the toy model), storing the universe takes more than the universe unless the seed is simple, and a predictor inside the universe cannot include itself. |
 | Free will is an illusion | True for libertarian free will, given the first claim. Compatibilist free will survives: *the choice is determined, and you are the computation that determines it.* |
 | Black-hole/white-hole cycles of ~110 billion years | Speculative. The cycle length has no derivation yet; measurements of dark energy could fix it or rule out global cycles. |
 | **Signatures last the entire time** | **Consistent if and only if the dynamics are unitary** (Theorem 1). This is also what most physicists now expect of black holes. |
