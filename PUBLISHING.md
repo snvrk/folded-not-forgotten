@@ -4,7 +4,7 @@ This is a conceptual paper in the philosophy of physics. The right path is a DOI
 
 | # | Step | Who | Status |
 |---|---|---|---|
-| 1 | ORCID iD (shared with The Missing Minute) | You | To do |
+| 1 | ORCID iD 0009-0000-1948-412X in the paper, `CITATION.cff` and `.zenodo.json` | Done | ✓ |
 | 2 | Zenodo DOI from a GitHub release | You (2 clicks), then me | Ready for the release |
 | 3 | PhilSci-Archive preprint | You submit | Ready |
 | 4 | arXiv `physics.hist-ph` (optional) | You submit | Needs an endorser |
@@ -61,6 +61,10 @@ Be realistic about the odds. Conceptual papers face high rejection rates in thes
 ## 6. Essay version (optional)
 
 A 2,000–3,000-word essay, "Folded, not forgotten," with the tootsie roll up front and the unitarity result as its payoff. It would suit long-form essay magazines that publish philosophy of science for general readers (pitch them with a one-paragraph summary), or a post on your own site. Publish it after the PhilSci-Archive preprint, so the essay can link to it.
+
+## SSRN
+
+Your first paper, *Ticketstorm as Mass Visual Disruption*, is on SSRN (abstract 5454695), so you already have an author page there. Once the Zenodo DOI exists, post this paper to SSRN too, with the DOI in the abstract page, so it appears alongside your first paper.
 
 ## Timeline
 

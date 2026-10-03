@@ -1,7 +1,7 @@
 # Folded, Not Forgotten
 
 **Seeds, Cycles and the Persistence of Information**
-Caleb Gottfried · Version 1.0 · October 2026
+SNVRK (Caleb Gottfried) · Version 1.0 · October 3, 2026 · ORCID [0009-0000-1948-412X](https://orcid.org/0009-0000-1948-412X)
 
 📄 [Paper (PDF)](paper/folded-not-forgotten-v1.pdf) · [HTML](paper/folded-not-forgotten.html)
 
