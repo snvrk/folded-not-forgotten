@@ -1,0 +1,33 @@
+{
+  "title": "Folded, Not Forgotten: Seeds, Cycles and the Persistence of Information",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "version": "1.0",
+  "description": "<p>We examine a four-part thesis about the universe, which we call the Fold Hypothesis. (1) It began from a seed, an initial state that fixes everything that follows. (2) Whoever knew the seed could predict everything. (3) Free will is therefore an illusion. (4) The universe runs in cycles, each ending as black holes turn into white holes, and every trace of what happened in one cycle is folded into the seed of the next, so that each signature lasts for the entire time of the universe, like the small portion of each batch of candy said to go into the next. We state each claim precisely and test it against established physics, then derive what would have to be true for it to hold. Claim 1 is a live option: deterministic readings of quantum mechanics exist, though standard quantum mechanics is not deterministic. Claim 2 holds in principle. Given the exact seed and the exact laws, the future is a computation, and running it reproduces history the way a backtest does. What it demands is exactness and room. Because of chaos, a seed known to d digits rather than exactly predicts only about d·ln 10/λ steps ahead. Storing the universe particle by particle would take more bits than the universe holds, unless the seed is simple. And no predictor inside the universe can predict everything, because everything includes itself. So the claim is true in principle and out of reach in practice, partly for technological reasons and partly for physical ones. Claim 3 follows for libertarian free will if Claim 1 holds, but not for the compatibilist kind. And even an exact prediction of a choice would have to compute the deliberation that is the choice, so deliberation remains the process by which outcomes get decided. For Claim 4 we prove a consistency result. Endless cycles, entropy carried across cycles, and signatures that last forever are compatible only if the cycle-to-cycle map preserves information exactly (unitarity) and the entropy that is carried over or reset is coarse-grained. If any fraction of the seed is replaced each cycle, a signature decays as pⁿ after n cycles: never quite zero, but soon negligible. A reversible toy universe shows the alternative: a signature scrambled beyond recognition, fully recoverable at every cycle, and returning exactly by recurrence. Unitarity is also what most physicists now expect of black holes. The Fold Hypothesis therefore survives in a sharp form, as a claim that the universe’s dynamics lose no information, and we list observations that could refute its cosmological parts.</p>",
+  "creators": [
+    {
+      "name": "Gottfried, Caleb",
+      "affiliation": "SNVRKOTICS LLC"
+    }
+  ],
+  "keywords": [
+    "determinism",
+    "predictability",
+    "chaos",
+    "free will",
+    "cyclic cosmology",
+    "black holes",
+    "white holes",
+    "unitarity",
+    "information",
+    "entropy",
+    "Poincaré recurrence"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/snvrk/missing-minute",
+      "relation": "references",
+      "resource_type": "publication-preprint"
+    }
+  ]
+}
