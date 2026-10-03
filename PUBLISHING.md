@@ -5,7 +5,7 @@ This is a conceptual paper in the philosophy of physics. The right path is a DOI
 | # | Step | Who | Status |
 |---|---|---|---|
 | 1 | ORCID iD (shared with The Missing Minute) | You | To do |
-| 2 | Zenodo DOI from a GitHub release | You (2 clicks), then me | Tag `v1.0` pushed |
+| 2 | Zenodo DOI from a GitHub release | You (2 clicks), then me | Ready for the release |
 | 3 | PhilSci-Archive preprint | You submit | Ready |
 | 4 | arXiv `physics.hist-ph` (optional) | You submit | Needs an endorser |
 | 5 | Journal: *Foundations of Physics* | You submit; I convert to LaTeX | After the preprint |
@@ -14,7 +14,7 @@ This is a conceptual paper in the philosophy of physics. The right path is a DOI
 ## 2. Zenodo DOI
 
 1. At https://zenodo.org go to **Account → GitHub** and switch on `snvrk/folded-not-forgotten`. Do this first.
-2. On GitHub, open **Releases → Draft a new release**, choose tag `v1.0`, title it `Folded, Not Forgotten v1.0`, and publish.
+2. On GitHub, open **Releases → Draft a new release**, type `v1.0` in the tag box, choose **Create new tag: v1.0 on publish**, target `main`, title it `Folded, Not Forgotten v1.0`, and publish.
 3. On the new Zenodo record, set **License** to "Other (Open)" with https://snvrkotics.com/licenses/w2fpl.
 4. Send me the DOI. I'll add it to the README, `CITATION.cff` and the paper.
 
