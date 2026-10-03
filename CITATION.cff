@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this work, please cite the paper below."
-title: "The Tootsie Roll Universe: Seeds, Cycles and the Persistence of Information"
+title: "Folded, Not Forgotten: Seeds, Cycles and the Persistence of Information"
 version: "1.0"
 date-released: 2026-10-03
 license-url: "https://snvrkotics.com/licenses/w2fpl"
@@ -19,7 +19,7 @@ authors:
     affiliation: SNVRKOTICS LLC
 preferred-citation:
   type: article
-  title: "The Tootsie Roll Universe: Seeds, Cycles and the Persistence of Information"
+  title: "Folded, Not Forgotten: Seeds, Cycles and the Persistence of Information"
   authors:
     - family-names: Gottfried
       given-names: Caleb

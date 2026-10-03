@@ -1,11 +1,11 @@
-# The Tootsie Roll Universe
+# Folded, Not Forgotten
 
 **Seeds, Cycles and the Persistence of Information**
 Caleb Gottfried · Version 1.0 · October 2026
 
-📄 [Paper (PDF)](paper/tootsie-roll-universe-v1.pdf) · [HTML](paper/tootsie-roll-universe.html)
+📄 [Paper (PDF)](paper/folded-not-forgotten-v1.pdf) · [HTML](paper/folded-not-forgotten.html)
 
-The paper tests a four-part thesis:
+The paper tests a four-part thesis, the **Fold Hypothesis**:
 - the universe began from a **seed** that fixes everything;
 - whoever knew the seed could **predict** everything;
 - **free will** is therefore an illusion;

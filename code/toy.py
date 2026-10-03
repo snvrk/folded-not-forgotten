@@ -1,5 +1,5 @@
 """
-"The Tootsie Roll Universe": toy-universe simulations.
+"Folded, Not Forgotten": toy-universe simulations.
   1. A reversible universe: Arnold's cat map on an N x N grid is a bijection, so a
      signature written into the seed is scrambled but never lost, and the exact
      state recurs (Poincare recurrence).
