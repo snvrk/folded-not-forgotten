@@ -32,4 +32,6 @@ python3 code/toy.py     # writes results/results.json and paper/figures/
 
 ## License
 
+[![W2FPL](https://snvrkotics.com/brand/licenses/w2fpl/w2fpl-88x31.png)](https://snvrkotics.com/licenses/w2fpl)
+
 [W2FPL, Version 1](LICENSE). See https://snvrkotics.com/w2fpl.
